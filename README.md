@@ -1,5 +1,7 @@
 Images2Pdf is a command-line utility that can help us produce a pdf file from a series of images.
 
+:star: :star2: :star:
+
 ## Prerequisites
 Python3 and Pip
 
